@@ -19,7 +19,7 @@ document.querySelectorAll("#mobile-menu a").forEach(link => {
 });
 
 
-  const phrases = ["SAP ABAP Certified Developer","Web Developer", "Django Enthusiast"];
+  const phrases = ["SAP ABAP Certified ","Web Developer", "Django Enthusiast"];
   const el = document.getElementById("typing-text");
 
   let currentPhrase = 0;
